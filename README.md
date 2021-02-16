@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LoryTheHawk
+- 👀 I’m interested in front end website development
+- 🌱 I’m currently learning HTML / CSS & JavaScript
+- 💞️ I’m looking to collaborate on Website Creation
+- 📫 How to reach me lor.ferraioli@gmail.com
