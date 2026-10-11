@@ -1,15 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=D4A017&center=true&vCenter=true&width=640&lines=Ciao!+I'm+Lorenzo+%F0%9F%A6%85;Banking+%26+Finance+student+%40+UCSC+Milan;Exchange+semester+%40+Kozminski+Warsaw+%F0%9F%87%B5%F0%9F%87%B1;DCF+by+day%2C+HTML+%2F+CSS+%2F+JS+by+night;Price+is+what+you+pay.+Value+is+what+you+get." alt="Typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=DC2F3A&center=true&vCenter=true&width=640&lines=Ciao!+I'm+Lorenzo+%F0%9F%A6%85;Banking+%26+Finance+student+%40+UCSC+Milan;Exchange+semester+%40+Kozminski+Warsaw+%F0%9F%87%B5%F0%9F%87%B1;DCF+by+day%2C+HTML+%2F+CSS+%2F+JS+by+night;Price+is+what+you+pay.+Value+is+what+you+get." alt="Typing banner" />
 
 <br/>
 
-<a href="https://lorythehawk.github.io"><img src="https://img.shields.io/badge/Website-lorythehawk.github.io-D4A017?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="https://lorythehawk.github.io"><img src="https://img.shields.io/badge/Website-lorythehawk.github.io-DC2F3A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="https://www.linkedin.com/in/lorenzoferraioli"><img src="https://img.shields.io/badge/LinkedIn-lorenzoferraioli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:lor.ferraioli@gmail.com"><img src="https://img.shields.io/badge/Email-lor.ferraioli-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://x.com/LoryTheHawk"><img src="https://img.shields.io/badge/X-@LoryTheHawk-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=LoryTheHawk&label=Profile%20views&color=0d1b2a&style=flat" alt="Profile views"/>
+<a href="mailto:lor.ferraioli@gmail.com"><img src="https://img.shields.io/badge/Email-lor.ferraioli-0D1B2A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
@@ -54,24 +51,11 @@ class Lorenzo:
 
 **Finance skill set:** DCF · Comparables · Precedent Transactions · Derivatives Pricing · Econometrics · Risk Management
 
-## 📊 GitHub stats
+## 🚀 Projects
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LoryTheHawk&show_icons=true&hide_border=true&bg_color=0d1b2a&title_color=d4a017&icon_color=d4a017&text_color=e0e1dd&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://streak-stats.demolab.com?user=LoryTheHawk&hide_border=true&background=0d1b2a&ring=d4a017&fire=d4a017&currStreakLabel=d4a017&sideLabels=e0e1dd&currStreakNum=e0e1dd&sideNums=e0e1dd&dates=8d99ae&stroke=1b263b" alt="GitHub streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=LoryTheHawk&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
-
-</div>
-
-## 🐍 The hawk's prey
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LoryTheHawk/LoryTheHawk/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LoryTheHawk/LoryTheHawk/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/LoryTheHawk/LoryTheHawk/output/github-snake.svg" />
-</picture>
+| Project | What it is |
+| --- | --- |
+| 🌐 [**lorythehawk.github.io**](https://github.com/LoryTheHawk/LoryTheHawk.github.io) | My personal website, built by hand with HTML, CSS & JS — animated career chart, IT/EN switch, light/dark theme and a hawk easter egg 🦅 → [visit it](https://lorythehawk.github.io) |
 
 ## 💬 Quote of the day
 
