@@ -18,19 +18,19 @@
 class Lorenzo:
     based_in   = "Milan 🇮🇹  →  currently Warsaw 🇵🇱"
     studying   = "M.Sc. Banking & Finance @ UCSC Milan"
-    graduated  = "B.Sc. @ Sapienza Rome — 110/110 cum laude 🎓"
-    exchange   = "Kozminski University — CFA track (PM, Alt. Investments, M&A, Risk)"
+    graduated  = "B.Sc. @ Sapienza Rome, 110/110 cum laude 🎓"
+    exchange   = "Kozminski University, CFA track (PM, Alt. Investments, M&A, Risk)"
     into       = ["Investment Banking", "Capital Markets", "Valuation", "Risk Management"]
     learning   = ["Python", "R", "HTML / CSS / JavaScript"]
     languages  = {"Italian": "native", "English": "C1", "Spanish": "learning 🌱"}
 
     def fun_fact(self):
-        return "14 years as a scout ⛺ — I can build a DCF *and* a campfire."
+        return "14 years as a scout ⛺: I can build a DCF *and* a campfire."
 ```
 
-- 🎯 **Looking for an internship** in investment banking & capital markets — [let's talk](mailto:lor.ferraioli@gmail.com)!
+- 🎯 **Looking for an internship** in investment banking & capital markets from **January 2027**, mainly in Europe. [Let's talk](mailto:lor.ferraioli@gmail.com)!
 - 📈 Currently interested in **investment banking, capital markets and quantitative finance**
-- 🏆 Took part in the **CFA Research Challenge 2025** — equity research on *Industrie De Nora S.p.A.*
+- 🏆 Took part in the **CFA Research Challenge 2025** with an equity research report on *Industrie De Nora S.p.A.*
 - 🌪️ Wrote my bachelor thesis on **Catastrophe Bonds** and disaster risk financing
 - 💻 Using code to make finance faster: Excel models today, Python & R pipelines tomorrow
 - 🤝 Happy to collaborate on **finance + data + web** side projects
@@ -50,13 +50,15 @@ class Lorenzo:
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
-**Finance skill set:** DCF · Comparables · Precedent Transactions · Derivatives Pricing · Econometrics · Risk Management
+**Finance skill set:** Corporate Finance · Valuation (DCF, comps, precedents) · Equity Research · Capital Markets · Portfolio & Risk Management · Derivatives Pricing
+
+**Certifications:** Bloomberg Market Concepts · IELTS Academic 7.5 (C1) · LinkedIn Excel Skill Assessment
 
 ## 🚀 Projects
 
 | Project | What it is |
 | --- | --- |
-| [**lorythehawk.github.io**](https://github.com/LoryTheHawk/LoryTheHawk.github.io) | My personal website, built by hand with HTML, CSS & JS — animated career chart, IT/EN switch, light/dark theme and a hawk easter egg 🦅 → [visit it](https://lorythehawk.github.io) |
+| [**lorythehawk.github.io**](https://github.com/LoryTheHawk/LoryTheHawk.github.io) | My personal website, built by hand with HTML, CSS & JS: animated career chart, IT/EN switch, light/dark theme and a hawk easter egg 🦅 → [visit it](https://lorythehawk.github.io) |
 | [**rgeassociated.it**](https://www.rgeassociated.it) | Website of R.G.E. Associated, Allianz & Nobis general agency in Angri (SA): a custom WordPress theme with staff and coverage pages, IVASS transparency section, live opening-hours badge and an exam simulator for the RUI test with all 1,758 official questions |
 
 ## 💬 Quote of the day
@@ -71,5 +73,5 @@ class Lorenzo:
 ---
 
 <div align="center">
-  <sub>Made with ☕, 📈 and a bit of 🦅 — <a href="https://lorythehawk.github.io">visit my website</a></sub>
+  <sub>Made with ☕, 📈 and a bit of 🦅 · <a href="https://lorythehawk.github.io">visit my website</a></sub>
 </div>
