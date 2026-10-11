@@ -50,7 +50,9 @@ class Lorenzo:
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
-**Finance skill set:** DCF · Comparables · Precedent Transactions · Derivatives Pricing · Econometrics · Risk Management
+**Finance skill set:** Corporate Finance · Valuation (DCF, comps, precedents) · Equity Research · Capital Markets · Portfolio & Risk Management · Derivatives Pricing
+
+**Certifications:** Bloomberg Market Concepts · IELTS Academic 7.5 (C1) · LinkedIn Excel Skill Assessment
 
 ## 🚀 Projects
 
