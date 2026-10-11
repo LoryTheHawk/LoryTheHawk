@@ -1,0 +1,29 @@
+name: Quote of the day
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pick today's quote
+        run: python3 .github/scripts/quote_of_the_day.py README.md
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet; then
+            echo "Quote unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: quote of the day"
+          git push
