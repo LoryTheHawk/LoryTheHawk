@@ -56,6 +56,7 @@ class Lorenzo:
 | Project | What it is |
 | --- | --- |
 | 🌐 [**lorythehawk.github.io**](https://github.com/LoryTheHawk/LoryTheHawk.github.io) | My personal website, built by hand with HTML, CSS & JS — animated career chart, IT/EN switch, light/dark theme and a hawk easter egg 🦅 → [visit it](https://lorythehawk.github.io) |
+| 🛡️ [**rgeassociated.it**](https://www.rgeassociated.it) | Website of R.G.E. Associated, Allianz & Nobis general agency in Angri (SA): a custom WordPress theme with staff and coverage pages, IVASS transparency section, live opening-hours badge and an exam simulator for the RUI test with all 1,758 official questions |
 
 ## 💬 Quote of the day
 
