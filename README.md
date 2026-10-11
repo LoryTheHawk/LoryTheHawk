@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=DC2F3A&center=true&vCenter=true&width=760&lines=Ciao!+I'm+Lorenzo+%F0%9F%A6%85;Banking+%26+Finance+student+%40+UCSC+Milan;Exchange+semester+%40+Kozminski+Warsaw+%F0%9F%87%B5%F0%9F%87%B1;DCF+by+day%2C+HTML+%2F+CSS+%2F+JS+by+night" alt="Typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=DC2F3A&center=true&vCenter=true&width=760&lines=Ciao!+I'm+Lorenzo+%F0%9F%A6%85;Banking+%26+Finance+student+%40+UCSC+Milan;Looking+for+an+internship+in+IB+%F0%9F%8E%AF;Exchange+semester+%40+Kozminski+Warsaw+%F0%9F%87%B5%F0%9F%87%B1;DCF+by+day%2C+HTML+%2F+CSS+%2F+JS+by+night" alt="Typing banner" />
 
 <br/>
 
@@ -28,6 +28,7 @@ class Lorenzo:
         return "14 years as a scout ⛺ — I can build a DCF *and* a campfire."
 ```
 
+- 🎯 **Looking for an internship** in investment banking & capital markets — [let's talk](mailto:lor.ferraioli@gmail.com)!
 - 📈 Currently interested in **investment banking, capital markets and quantitative finance**
 - 🏆 Took part in the **CFA Research Challenge 2025** — equity research on *Industrie De Nora S.p.A.*
 - 🌪️ Wrote my bachelor thesis on **Catastrophe Bonds** and disaster risk financing
