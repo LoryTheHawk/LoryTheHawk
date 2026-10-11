@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=DC2F3A&center=true&vCenter=true&width=640&lines=Ciao!+I'm+Lorenzo+%F0%9F%A6%85;Banking+%26+Finance+student+%40+UCSC+Milan;Exchange+semester+%40+Kozminski+Warsaw+%F0%9F%87%B5%F0%9F%87%B1;DCF+by+day%2C+HTML+%2F+CSS+%2F+JS+by+night;Price+is+what+you+pay.+Value+is+what+you+get." alt="Typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=DC2F3A&center=true&vCenter=true&width=760&lines=Ciao!+I'm+Lorenzo+%F0%9F%A6%85;Banking+%26+Finance+student+%40+UCSC+Milan;Exchange+semester+%40+Kozminski+Warsaw+%F0%9F%87%B5%F0%9F%87%B1;DCF+by+day%2C+HTML+%2F+CSS+%2F+JS+by+night" alt="Typing banner" />
 
 <br/>
 
@@ -55,8 +55,8 @@ class Lorenzo:
 
 | Project | What it is |
 | --- | --- |
-| 🌐 [**lorythehawk.github.io**](https://github.com/LoryTheHawk/LoryTheHawk.github.io) | My personal website, built by hand with HTML, CSS & JS — animated career chart, IT/EN switch, light/dark theme and a hawk easter egg 🦅 → [visit it](https://lorythehawk.github.io) |
-| 🛡️ [**rgeassociated.it**](https://www.rgeassociated.it) | Website of R.G.E. Associated, Allianz & Nobis general agency in Angri (SA): a custom WordPress theme with staff and coverage pages, IVASS transparency section, live opening-hours badge and an exam simulator for the RUI test with all 1,758 official questions |
+| [**lorythehawk.github.io**](https://github.com/LoryTheHawk/LoryTheHawk.github.io) | My personal website, built by hand with HTML, CSS & JS — animated career chart, IT/EN switch, light/dark theme and a hawk easter egg 🦅 → [visit it](https://lorythehawk.github.io) |
+| [**rgeassociated.it**](https://www.rgeassociated.it) | Website of R.G.E. Associated, Allianz & Nobis general agency in Angri (SA): a custom WordPress theme with staff and coverage pages, IVASS transparency section, live opening-hours badge and an exam simulator for the RUI test with all 1,758 official questions |
 
 ## 💬 Quote of the day
 
