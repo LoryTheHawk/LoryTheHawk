@@ -28,7 +28,7 @@ class Lorenzo:
         return "14 years as a scout ⛺ — I can build a DCF *and* a campfire."
 ```
 
-- 🎯 **Looking for an internship** in investment banking & capital markets — [let's talk](mailto:lor.ferraioli@gmail.com)!
+- 🎯 **Looking for an internship** in investment banking & capital markets from **January 2027**, mainly in Europe — [let's talk](mailto:lor.ferraioli@gmail.com)!
 - 📈 Currently interested in **investment banking, capital markets and quantitative finance**
 - 🏆 Took part in the **CFA Research Challenge 2025** — equity research on *Industrie De Nora S.p.A.*
 - 🌪️ Wrote my bachelor thesis on **Catastrophe Bonds** and disaster risk financing
