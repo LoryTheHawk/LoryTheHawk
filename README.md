@@ -64,8 +64,8 @@ class Lorenzo:
 ## 💬 Quote of the day
 
 <!--QUOTE:START-->
-> *"The stock market is a device for transferring money from the impatient to the patient."*
-> — **Warren Buffett**
+> *"In the short run, the market is a voting machine but in the long run, it is a weighing machine."*
+> — **Benjamin Graham**
 <!--QUOTE:END-->
 
 <sub>🔄 Updated every day by a tiny GitHub Action.</sub>
