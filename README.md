@@ -64,7 +64,7 @@ class Lorenzo:
 ## 💬 Quote of the day
 
 <!--QUOTE:START-->
-> *"Be prepared."*
+> *"Try and leave this world a little better than you found it."*
 > — **Robert Baden-Powell**
 <!--QUOTE:END-->
 
