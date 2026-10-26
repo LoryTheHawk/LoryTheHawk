@@ -64,8 +64,8 @@ class Lorenzo:
 ## 💬 Quote of the day
 
 <!--QUOTE:START-->
-> *"In the short run, the market is a voting machine but in the long run, it is a weighing machine."*
-> — **Benjamin Graham**
+> *"Know what you own, and know why you own it."*
+> — **Peter Lynch**
 <!--QUOTE:END-->
 
 <sub>🔄 Updated every day by a tiny GitHub Action.</sub>
