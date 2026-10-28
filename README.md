@@ -64,8 +64,8 @@ class Lorenzo:
 ## 💬 Quote of the day
 
 <!--QUOTE:START-->
-> *"The four most dangerous words in investing are: 'this time it's different.'"*
-> — **Sir John Templeton**
+> *"Diversification is the only free lunch in finance."*
+> — **Harry Markowitz**
 <!--QUOTE:END-->
 
 <sub>🔄 Updated every day by a tiny GitHub Action.</sub>
