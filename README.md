@@ -64,7 +64,7 @@ class Lorenzo:
 ## 💬 Quote of the day
 
 <!--QUOTE:START-->
-> *"Risk comes from not knowing what you're doing."*
+> *"Be fearful when others are greedy and greedy when others are fearful."*
 > — **Warren Buffett**
 <!--QUOTE:END-->
 
