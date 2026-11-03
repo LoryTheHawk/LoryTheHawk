@@ -64,7 +64,7 @@ class Lorenzo:
 ## 💬 Quote of the day
 
 <!--QUOTE:START-->
-> *"Be fearful when others are greedy and greedy when others are fearful."*
+> *"The stock market is a device for transferring money from the impatient to the patient."*
 > — **Warren Buffett**
 <!--QUOTE:END-->
 
