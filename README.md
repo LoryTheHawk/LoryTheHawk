@@ -64,8 +64,8 @@ class Lorenzo:
 ## 💬 Quote of the day
 
 <!--QUOTE:START-->
-> *"Diversification is the only free lunch in finance."*
-> — **Harry Markowitz**
+> *"Be prepared."*
+> — **Robert Baden-Powell**
 <!--QUOTE:END-->
 
 <sub>🔄 Updated every day by a tiny GitHub Action.</sub>
