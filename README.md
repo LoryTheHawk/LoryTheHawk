@@ -64,7 +64,7 @@ class Lorenzo:
 ## 💬 Quote of the day
 
 <!--QUOTE:START-->
-> *"Price is what you pay. Value is what you get."*
+> *"Risk comes from not knowing what you're doing."*
 > — **Warren Buffett**
 <!--QUOTE:END-->
 
