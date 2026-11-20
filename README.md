@@ -64,8 +64,8 @@ class Lorenzo:
 ## 💬 Quote of the day
 
 <!--QUOTE:START-->
-> *"Try and leave this world a little better than you found it."*
-> — **Robert Baden-Powell**
+> *"Price is what you pay. Value is what you get."*
+> — **Warren Buffett**
 <!--QUOTE:END-->
 
 <sub>🔄 Updated every day by a tiny GitHub Action.</sub>
